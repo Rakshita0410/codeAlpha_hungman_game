@@ -1,0 +1,7 @@
+Welcome to Hangman!
+Guess the word:  _ _ _ _ _ _ _
+Enter a letter: python
+Please enter a single letter.
+Enter a letter: a
+Good job! 'a' is in the word.
+Word:  _ a _ _ _ a _
