@@ -1,1 +1,1 @@
-# codeAlpha_hungman_game
+# hungman_game
